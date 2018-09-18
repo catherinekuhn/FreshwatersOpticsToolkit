@@ -1,183 +1,183 @@
-Analysis_Type	Date	ID	Raw_File_Path	Rep	Sample_Type	Sensor	Site	Temp
-a	070718	AC9_070718_sea_cal_a_1_T20_6	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_070718_sea_cal_a_1_T20_6.dat	1	cal	AC9	sea	20.6
-a	070718	AC9_070718_sea_cal_a_2_T20_9	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_070718_sea_cal_a_2_T20_9.dat	2	cal	AC9	sea	20.9
-a	070718	AC9_070718_sea_cal_a_3_T20_9	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_070718_sea_cal_a_3_T20_9.dat	3	cal	AC9	sea	20.9
-c	070718	AC9_070718_sea_cal_c_1_T20_6	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_070718_sea_cal_c_1_T20_6.dat	1	cal	AC9	sea	20.6
-c	070718	AC9_070718_sea_cal_c_2_T20_6	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_070718_sea_cal_c_2_T20_6.dat	2	cal	AC9	sea	20.6
-c	070718	AC9_070718_sea_cal_c_3_T20_6	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_070718_sea_cal_c_3_T20_6.dat	3	cal	AC9	sea	20.6
-a	071318	AC9_071318_bai_cal_a_1_T23_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071318_bai_cal_a_1_T23_8.dat	1	cal	AC9	bai	23.8
-a	071318	AC9_071318_bai_cal_a_2_T24_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071318_bai_cal_a_2_T24_1.dat	2	cal	AC9	bai	24.1
-a	071318	AC9_071318_bai_cal_a_3_T24_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071318_bai_cal_a_3_T24_0.dat	3	cal	AC9	bai	24.0
-c	071318	AC9_071318_bai_cal_c_1_T23_7	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071318_bai_cal_c_1_T23_7.dat	1	cal	AC9	bai	23.7
-c	071318	AC9_071318_bai_cal_c_2_T23_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071318_bai_cal_c_2_T23_8.dat	2	cal	AC9	bai	23.8
-c	071318	AC9_071318_bai_cal_c_3_T23_9	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071318_bai_cal_c_3_T23_9.dat	3	cal	AC9	bai	23.9
-a	071318	AC9_071318_fai_cal_a_1_T23_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071318_fai_cal_a_1_T23_8.dat	1	cal	AC9	fai	23.8
-a	071318	AC9_071318_fai_cal_a_2_T24_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071318_fai_cal_a_2_T24_1.dat	2	cal	AC9	fai	24.1
-a	071318	AC9_071318_fai_cal_a_3_T24_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071318_fai_cal_a_3_T24_0.dat	3	cal	AC9	fai	24.0
-c	071318	AC9_071318_fai_cal_c_1_T23_7	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071318_fai_cal_c_1_T23_7.dat	1	cal	AC9	fai	23.7
-c	071318	AC9_071318_fai_cal_c_2_T23_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071318_fai_cal_c_2_T23_8.dat	2	cal	AC9	fai	23.8
-c	071318	AC9_071318_fai_cal_c_3_T23_9	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071318_fai_cal_c_3_T23_9.dat	3	cal	AC9	fai	23.9
-a	071418	AC9_071418_bai_fil_a_1_T13_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071418_bai_fil_a_1_T13_4.dat	1	fil	AC9	bai	13.4
-a	071418	AC9_071418_bai_fil_a_2_T19_2	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071418_bai_fil_a_2_T19_2.dat	2	fil	AC9	bai	19.2
-a	071418	AC9_071418_bai_fil_a_3_T18_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071418_bai_fil_a_3_T18_5.dat	3	fil	AC9	bai	18.5
-c	071418	AC9_071418_bai_fil_c_1_T13_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071418_bai_fil_c_1_T13_4.dat	1	fil	AC9	bai	13.4
-c	071418	AC9_071418_bai_fil_c_2_T19_2	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071418_bai_fil_c_2_T19_2.dat	2	fil	AC9	bai	19.2
-c	071418	AC9_071418_bai_fil_c_3_T18_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071418_bai_fil_c_3_T18_5.dat	3	fil	AC9	bai	18.5
-a	071418	AC9_071418_bai_raw_a_1_T19_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071418_bai_raw_a_1_T19_8.dat	1	raw	AC9	bai	19.8
-a	071418	AC9_071418_bai_raw_a_2_T19_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071418_bai_raw_a_2_T19_8.dat	2	raw	AC9	bai	19.8
-a	071418	AC9_071418_bai_raw_a_3_T17_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071418_bai_raw_a_3_T17_8.dat	3	raw	AC9	bai	17.8
-c	071418	AC9_071418_bai_raw_c_1_T19_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071418_bai_raw_c_1_T19_8.dat	1	raw	AC9	bai	19.8
-c	071418	AC9_071418_bai_raw_c_2_T19_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071418_bai_raw_c_2_T19_8.dat	2	raw	AC9	bai	19.8
-c	071418	AC9_071418_bai_raw_c_3_T17_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071418_bai_raw_c_3_T17_8.dat	3	raw	AC9	bai	17.8
-a	071618	AC9_071618_can_cal_a_1_T19_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_can_cal_a_1_T19_3.dat	1	cal	AC9	can	19.3
-a	071618	AC9_071618_can_cal_a_2_T19_9	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_can_cal_a_2_T19_9.dat	2	cal	AC9	can	19.9
-a	071618	AC9_071618_can_cal_a_3_T19_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_can_cal_a_3_T19_0.dat	3	cal	AC9	can	19.0
-c	071618	AC9_071618_can_cal_c_1_T19_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_can_cal_c_1_T19_3.dat	1	cal	AC9	can	19.3
-c	071618	AC9_071618_can_cal_c_2_T19_9	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_can_cal_c_2_T19_9.dat	2	cal	AC9	can	19.9
-c	071618	AC9_071618_can_cal_c_3_T19_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_can_cal_c_3_T19_0.dat	3	cal	AC9	can	19.0
-a	071618	AC9_071618_cbr_cal_a_1_T19_9	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_cbr_cal_a_1_T19_9.dat	1	cal	AC9	cbr	19.9
-a	071618	AC9_071618_cbr_cal_a_2_T19_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_cbr_cal_a_2_T19_3.dat	2	cal	AC9	cbr	19.3
-a	071618	AC9_071618_cbr_cal_a_3_T19_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_cbr_cal_a_3_T19_0.dat	3	cal	AC9	cbr	19.0
-c	071618	AC9_071618_cbr_cal_c_1_T19_9	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_cbr_cal_c_1_T19_9.dat	1	cal	AC9	cbr	19.9
-c	071618	AC9_071618_cbr_cal_c_2_T19_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_cbr_cal_c_2_T19_3.dat	2	cal	AC9	cbr	19.3
-c	071618	AC9_071618_cbr_cal_c_3_T19_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_cbr_cal_c_3_T19_0.dat	3	cal	AC9	cbr	19.0
-a	071618	AC9_071618_cbr_fil_a_1_T17_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_cbr_fil_a_1_T17_5.dat	1	fil	AC9	cbr	17.5
-a	071618	AC9_071618_cbr_fil_a_2_T17_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_cbr_fil_a_2_T17_5.dat	2	fil	AC9	cbr	17.5
-a	071618	AC9_071618_cbr_fil_a_3_T17_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_cbr_fil_a_3_T17_5.dat	3	fil	AC9	cbr	17.5
-c	071618	AC9_071618_cbr_fil_c_1_T17_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_cbr_fil_c_1_T17_5.dat	1	fil	AC9	cbr	17.5
-c	071618	AC9_071618_cbr_fil_c_2_T17_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_cbr_fil_c_2_T17_5.dat	2	fil	AC9	cbr	17.5
-c	071618	AC9_071618_cbr_fil_c_3_T17_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_cbr_fil_c_3_T17_5.dat	3	fil	AC9	cbr	17.5
-a	071618	AC9_071618_cbr_raw_a_1_T17_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_cbr_raw_a_1_T17_5.dat	1	raw	AC9	cbr	17.5
-a	071618	AC9_071618_cbr_raw_a_2_T17_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_cbr_raw_a_2_T17_5.dat	2	raw	AC9	cbr	17.5
-a	071618	AC9_071618_cbr_raw_a_3_T17_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_cbr_raw_a_3_T17_5.dat	3	raw	AC9	cbr	17.5
-c	071618	AC9_071618_cbr_raw_c_1_T17_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_cbr_raw_c_1_T17_5.dat	1	raw	AC9	cbr	17.5
-c	071618	AC9_071618_cbr_raw_c_2_T17_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_cbr_raw_c_2_T17_5.dat	2	raw	AC9	cbr	17.5
-c	071618	AC9_071618_cbr_raw_c_3_T17_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071618_cbr_raw_c_3_T17_5.dat	3	raw	AC9	cbr	17.5
-a	071718	AC9_071718_9mi_cal_a_1_T19_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_9mi_cal_a_1_T19_0.dat	1	cal	AC9	9mi	19.0
-c	071718	AC9_071718_9mi_cal_c_1_T19_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_9mi_cal_c_1_T19_0.dat	1	cal	AC9	9mi	19.0
-a	071718	AC9_071718_9mi_fil_a_1_T15_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_9mi_fil_a_1_T15_4.dat	1	fil	AC9	9mi	15.4
-a	071718	AC9_071718_9mi_fil_a_2_T15_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_9mi_fil_a_2_T15_4.dat	2	fil	AC9	9mi	15.4
-a	071718	AC9_071718_9mi_fil_a_3_T15_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_9mi_fil_a_3_T15_1.dat	3	fil	AC9	9mi	15.1
-c	071718	AC9_071718_9mi_fil_c_1_T15_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_9mi_fil_c_1_T15_4.dat	1	fil	AC9	9mi	15.4
-c	071718	AC9_071718_9mi_fil_c_2_T15_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_9mi_fil_c_2_T15_4.dat	2	fil	AC9	9mi	15.4
-c	071718	AC9_071718_9mi_fil_c_3_T15_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_9mi_fil_c_3_T15_1.dat	3	fil	AC9	9mi	15.1
-a	071718	AC9_071718_9mi_raw_a_1_T17_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_9mi_raw_a_1_T17_4.dat	1	raw	AC9	9mi	17.4
-a	071718	AC9_071718_9mi_raw_a_2_T17_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_9mi_raw_a_2_T17_4.dat	2	raw	AC9	9mi	17.4
-a	071718	AC9_071718_9mi_raw_a_3_T17_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_9mi_raw_a_3_T17_4.dat	3	raw	AC9	9mi	17.4
-c	071718	AC9_071718_9mi_raw_c_1_T17_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_9mi_raw_c_1_T17_4.dat	1	raw	AC9	9mi	17.4
-c	071718	AC9_071718_9mi_raw_c_2_T17_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_9mi_raw_c_2_T17_4.dat	2	raw	AC9	9mi	17.4
-c	071718	AC9_071718_9mi_raw_c_3_T17_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_9mi_raw_c_3_T17_4.dat	3	raw	AC9	9mi	17.4
-a	071718	AC9_071718_can_cal_a_1_T19_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_can_cal_a_1_T19_0.dat	1	cal	AC9	can	19.0
-a	071718	AC9_071718_can_cal_a_2_T19_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_can_cal_a_2_T19_0.dat	2	cal	AC9	can	19.0
-a	071718	AC9_071718_can_cal_a_3_T19_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_can_cal_a_3_T19_0.dat	3	cal	AC9	can	19.0
-c	071718	AC9_071718_can_cal_c_1_T19_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_can_cal_c_1_T19_0.dat	1	cal	AC9	can	19.0
-c	071718	AC9_071718_can_cal_c_2_T19_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_can_cal_c_2_T19_0.dat	2	cal	AC9	can	19.0
-c	071718	AC9_071718_can_cal_c_3_T19_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_can_cal_c_3_T19_0.dat	3	cal	AC9	can	19.0
-a	071718	AC9_071718_sco_fil_a_2_T17_7	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_sco_fil_a_2_T17_7.dat	2	fil	AC9	sco	17.7
-a	071718	AC9_071718_sco_fil_a_3_T17_7	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_sco_fil_a_3_T17_7.dat	3	fil	AC9	sco	17.7
-c	071718	AC9_071718_sco_fil_c_2_T17_7	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_sco_fil_c_2_T17_7.dat	2	fil	AC9	sco	17.7
-c	071718	AC9_071718_sco_fil_c_3_T17_7	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_sco_fil_c_3_T17_7.dat	3	fil	AC9	sco	17.7
-a	071718	AC9_071718_sco_raw_a_1_T18_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_sco_raw_a_1_T18_3.dat	1	raw	AC9	sco	18.3
-a	071718	AC9_071718_sco_raw_a_2_T18_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_sco_raw_a_2_T18_3.dat	2	raw	AC9	sco	18.3
-a	071718	AC9_071718_sco_raw_a_3_T18_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_sco_raw_a_3_T18_3.dat	3	raw	AC9	sco	18.3
-c	071718	AC9_071718_sco_raw_c_1_T18_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_sco_raw_c_1_T18_3.dat	1	raw	AC9	sco	18.3
-c	071718	AC9_071718_sco_raw_c_2_T18_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_sco_raw_c_2_T18_3.dat	2	raw	AC9	sco	18.3
-c	071718	AC9_071718_sco_raw_c_3_T18_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_sco_raw_c_3_T18_3.dat	3	raw	AC9	sco	18.3
-a	071718	AC9_071718_y17_fil_a_1_T17_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y17_fil_a_1_T17_4.dat	1	fil	AC9	y17	17.4
-a	071718	AC9_071718_y17_fil_a_2_T17_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y17_fil_a_2_T17_4.dat	2	fil	AC9	y17	17.4
-c	071718	AC9_071718_y17_fil_c_1_T17_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y17_fil_c_1_T17_4.dat	1	fil	AC9	y17	17.4
-c	071718	AC9_071718_y17_fil_c_2_T17_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y17_fil_c_2_T17_4.dat	2	fil	AC9	y17	17.4
-a	071718	AC9_071718_y17_raw_a_2_T17_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y17_raw_a_2_T17_1.dat	2	raw	AC9	y17	17.1
-a	071718	AC9_071718_y17_raw_a_3_T17_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y17_raw_a_3_T17_1.dat	3	raw	AC9	y17	17.1
-a	071718	AC9_071718_y17_raw_a_4_T17_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y17_raw_a_4_T17_1.dat	4	raw	AC9	y17	17.1
-c	071718	AC9_071718_y17_raw_c_2_T17_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y17_raw_c_2_T17_1.dat	2	raw	AC9	y17	17.1
-c	071718	AC9_071718_y17_raw_c_3_T17_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y17_raw_c_3_T17_1.dat	3	raw	AC9	y17	17.1
-c	071718	AC9_071718_y17_raw_c_4_T17_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y17_raw_c_4_T17_1.dat	4	raw	AC9	y17	17.1
-a	071718	AC9_071718_y20_fil_a_1_T17_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y20_fil_a_1_T17_0.dat	1	fil	AC9	y20	17.0
-a	071718	AC9_071718_y20_fil_a_2_T19_7	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y20_fil_a_2_T19_7.dat	2	fil	AC9	y20	19.7
-c	071718	AC9_071718_y20_fil_c_1_T17_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y20_fil_c_1_T17_0.dat	1	fil	AC9	y20	17.0
-c	071718	AC9_071718_y20_fil_c_2_T19_7	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y20_fil_c_2_T19_7.dat	2	fil	AC9	y20	19.7
-a	071718	AC9_071718_y20_raw_a_1_T16_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y20_raw_a_1_T16_8.dat	1	raw	AC9	y20	16.8
-a	071718	AC9_071718_y20_raw_a_2_T16_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y20_raw_a_2_T16_8.dat	2	raw	AC9	y20	16.8
-a	071718	AC9_071718_y20_raw_a_3_T16_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y20_raw_a_3_T16_8.dat	3	raw	AC9	y20	16.8
-c	071718	AC9_071718_y20_raw_c_1_T16_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y20_raw_c_1_T16_8.dat	1	raw	AC9	y20	16.8
-c	071718	AC9_071718_y20_raw_c_2_T16_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y20_raw_c_2_T16_8.dat	2	raw	AC9	y20	16.8
-c	071718	AC9_071718_y20_raw_c_3_T16_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071718_y20_raw_c_3_T16_8.dat	3	raw	AC9	y20	16.8
-a	071818	AC9_071818_boo_fil_a_1_T22_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_boo_fil_a_1_T22_3.dat	1	fil	AC9	boo	22.3
-a	071818	AC9_071818_boo_fil_a_2_T22_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_boo_fil_a_2_T22_3.dat	2	fil	AC9	boo	22.3
-a	071818	AC9_071818_boo_fil_a_3_T21_9	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_boo_fil_a_3_T21_9.dat	3	fil	AC9	boo	21.9
-c	071818	AC9_071818_boo_fil_c_1_T22_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_boo_fil_c_1_T22_3.dat	1	fil	AC9	boo	22.3
-c	071818	AC9_071818_boo_fil_c_2_T22_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_boo_fil_c_2_T22_3.dat	2	fil	AC9	boo	22.3
-c	071818	AC9_071818_boo_fil_c_3_T21_9	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_boo_fil_c_3_T21_9.dat	3	fil	AC9	boo	21.9
-a	071818	AC9_071818_boo_raw_a_1_T17_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_boo_raw_a_1_T17_0.dat	1	raw	AC9	boo	17.0
-a	071818	AC9_071818_boo_raw_a_2_T17_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_boo_raw_a_2_T17_0.dat	2	raw	AC9	boo	17.0
-a	071818	AC9_071818_boo_raw_a_3_T17_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_boo_raw_a_3_T17_0.dat	3	raw	AC9	boo	17.0
-c	071818	AC9_071818_boo_raw_c_1_T17_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_boo_raw_c_1_T17_0.dat	1	raw	AC9	boo	17.0
-c	071818	AC9_071818_boo_raw_c_2_T17_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_boo_raw_c_2_T17_0.dat	2	raw	AC9	boo	17.0
-c	071818	AC9_071818_boo_raw_c_3_T17_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_boo_raw_c_3_T17_0.dat	3	raw	AC9	boo	17.0
-a	071818	AC9_071818_can_cal_a_1_T21_2	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_can_cal_a_1_T21_2.dat	1	cal	AC9	can	21.2
-a	071818	AC9_071818_can_cal_a_2_T21_2	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_can_cal_a_2_T21_2.dat	2	cal	AC9	can	21.2
-a	071818	AC9_071818_can_cal_a_3_T21_2	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_can_cal_a_3_T21_2.dat	3	cal	AC9	can	21.2
-c	071818	AC9_071818_can_cal_c_1_T21_2	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_can_cal_c_1_T21_2.dat	1	cal	AC9	can	21.2
-c	071818	AC9_071818_can_cal_c_2_T21_2	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_can_cal_c_2_T21_2.dat	2	cal	AC9	can	21.2
-c	071818	AC9_071818_can_cal_c_3_T21_2	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_can_cal_c_3_T21_2.dat	3	cal	AC9	can	21.2
-a	071818	AC9_071818_gre_fil_a_1_T22_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_gre_fil_a_1_T22_4.dat	1	fil	AC9	gre	22.4
-a	071818	AC9_071818_gre_fil_a_2_T22_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_gre_fil_a_2_T22_3.dat	2	fil	AC9	gre	22.3
-a	071818	AC9_071818_gre_fil_a_3_T22_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_gre_fil_a_3_T22_0.dat	3	fil	AC9	gre	22.0
-c	071818	AC9_071818_gre_fil_c_1_T22_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_gre_fil_c_1_T22_4.dat	1	fil	AC9	gre	22.4
-c	071818	AC9_071818_gre_fil_c_2_T22_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_gre_fil_c_2_T22_3.dat	2	fil	AC9	gre	22.3
-c	071818	AC9_071818_gre_fil_c_3_T22_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_gre_fil_c_3_T22_0.dat	3	fil	AC9	gre	22.0
-a	071818	AC9_071818_gre_raw_a_1_T17_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_gre_raw_a_1_T17_1.dat	1	raw	AC9	gre	17.1
-a	071818	AC9_071818_gre_raw_a_2_T17_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_gre_raw_a_2_T17_1.dat	2	raw	AC9	gre	17.1
-a	071818	AC9_071818_gre_raw_a_3_T17_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_gre_raw_a_3_T17_1.dat	3	raw	AC9	gre	17.1
-c	071818	AC9_071818_gre_raw_c_1_T17_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_gre_raw_c_1_T17_1.dat	1	raw	AC9	gre	17.1
-c	071818	AC9_071818_gre_raw_c_2_T17_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_gre_raw_c_2_T17_1.dat	2	raw	AC9	gre	17.1
-c	071818	AC9_071818_gre_raw_c_3_T17_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071818_gre_raw_c_3_T17_1.dat	3	raw	AC9	gre	17.1
-a	071918	AC9_071918_can_cal_a_1_T21_6	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_can_cal_a_1_T21_6.dat	1	cal	AC9	can	21.6
-a	071918	AC9_071918_can_cal_a_2_T20_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_can_cal_a_2_T20_4.dat	2	cal	AC9	can	20.4
-a	071918	AC9_071918_can_cal_a_3_T20_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_can_cal_a_3_T20_1.dat	3	cal	AC9	can	20.1
-c	071918	AC9_071918_can_cal_c_1_T21_6	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_can_cal_c_1_T21_6.dat	1	cal	AC9	can	21.6
-c	071918	AC9_071918_can_cal_c_2_T20_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_can_cal_c_2_T20_4.dat	2	cal	AC9	can	20.4
-c	071918	AC9_071918_can_cal_c_3_T20_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_can_cal_c_3_T20_1.dat	3	cal	AC9	can	20.1
-a	071918	AC9_071918_cbr_fil_a_1_T19_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_cbr_fil_a_1_T19_8.dat	1	fil	AC9	cbr	19.8
-a	071918	AC9_071918_cbr_fil_a_2_T19_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_cbr_fil_a_2_T19_8.dat	2	fil	AC9	cbr	19.8
-a	071918	AC9_071918_cbr_fil_a_3_T19_2	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_cbr_fil_a_3_T19_2.dat	3	fil	AC9	cbr	19.2
-c	071918	AC9_071918_cbr_fil_c_1_T19_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_cbr_fil_c_1_T19_8.dat	1	fil	AC9	cbr	19.8
-c	071918	AC9_071918_cbr_fil_c_2_T19_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_cbr_fil_c_2_T19_8.dat	2	fil	AC9	cbr	19.8
-c	071918	AC9_071918_cbr_fil_c_3_T19_2	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_cbr_fil_c_3_T19_2.dat	3	fil	AC9	cbr	19.2
-a	071918	AC9_071918_cbr_raw_a_2_T16_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_cbr_raw_a_2_T16_1.dat	2	raw	AC9	cbr	16.1
-a	071918	AC9_071918_cbr_raw_a_3_T16_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_cbr_raw_a_3_T16_1.dat	3	raw	AC9	cbr	16.1
-a	071918	AC9_071918_cbr_raw_a_4_T16_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_cbr_raw_a_4_T16_1.dat	4	raw	AC9	cbr	16.1
-c	071918	AC9_071918_cbr_raw_c_2_T16_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_cbr_raw_c_2_T16_1.dat	2	raw	AC9	cbr	16.1
-c	071918	AC9_071918_cbr_raw_c_3_T16_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_cbr_raw_c_3_T16_1.dat	3	raw	AC9	cbr	16.1
-c	071918	AC9_071918_cbr_raw_c_4_T16_1	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_cbr_raw_c_4_T16_1.dat	4	raw	AC9	cbr	16.1
-a	071918	AC9_071918_y17_fil_a_1_T18_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_y17_fil_a_1_T18_3.dat	1	fil	AC9	y17	18.3
-a	071918	AC9_071918_y17_fil_a_2_T18_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_y17_fil_a_2_T18_0.dat	2	fil	AC9	y17	18.0
-a	071918	AC9_071918_y17_fil_a_3_T17_9	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_y17_fil_a_3_T17_9.dat	3	fil	AC9	y17	17.9
-c	071918	AC9_071918_y17_fil_c_1_T18_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_y17_fil_c_1_T18_3.dat	1	fil	AC9	y17	18.3
-c	071918	AC9_071918_y17_fil_c_2_T18_0	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_y17_fil_c_2_T18_0.dat	2	fil	AC9	y17	18.0
-c	071918	AC9_071918_y17_fil_c_3_T17_9	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_y17_fil_c_3_T17_9.dat	3	fil	AC9	y17	17.9
-a	071918	AC9_071918_y20_fil_a_1_T17_7	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_y20_fil_a_1_T17_7.dat	1	fil	AC9	y20	17.7
-a	071918	AC9_071918_y20_fil_a_2_T17_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_y20_fil_a_2_T17_8.dat	2	fil	AC9	y20	17.8
-a	071918	AC9_071918_y20_fil_a_3_T17_6	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_y20_fil_a_3_T17_6.dat	3	fil	AC9	y20	17.6
-a	071918	AC9_071918_y20_fil_a_4_T17_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_y20_fil_a_4_T17_5.dat	4	fil	AC9	y20	17.5
-c	071918	AC9_071918_y20_fil_c_1_T17_7	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_y20_fil_c_1_T17_7.dat	1	fil	AC9	y20	17.7
-c	071918	AC9_071918_y20_fil_c_2_T17_8	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_y20_fil_c_2_T17_8.dat	2	fil	AC9	y20	17.8
-c	071918	AC9_071918_y20_fil_c_3_T17_6	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_y20_fil_c_3_T17_6.dat	3	fil	AC9	y20	17.6
-c	071918	AC9_071918_y20_fil_c_4_T17_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_071918_y20_fil_c_4_T17_5.dat	4	fil	AC9	y20	17.5
-a	072118	AC9_072118_fai_cal_a_1_T26_7	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_072118_fai_cal_a_1_T26_7.dat	1	cal	AC9	fai	26.7
-a	072118	AC9_072118_fai_cal_a_2_T25_7	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_072118_fai_cal_a_2_T25_7.dat	2	cal	AC9	fai	25.7
-a	072118	AC9_072118_fai_cal_a_3_T25_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_072118_fai_cal_a_3_T25_4.dat	3	cal	AC9	fai	25.4
-c	072118	AC9_072118_fai_cal_c_1_T26_7	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_072118_fai_cal_c_1_T26_7.dat	1	cal	AC9	fai	26.7
-c	072118	AC9_072118_fai_cal_c_2_T25_7	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_072118_fai_cal_c_2_T25_7.dat	2	cal	AC9	fai	25.7
-c	072118	AC9_072118_fai_cal_c_3_T25_4	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_072118_fai_cal_c_3_T25_4.dat	3	cal	AC9	fai	25.4
-a	072118	AC9_072118_fav_cal_a_1_T26_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_072118_fav_cal_a_1_T26_3.dat	1	cal	AC9	fav	26.3
-c	072118	AC9_072118_fav_cal_c_1_T26_3	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_072118_fav_cal_c_1_T26_3.dat	1	cal	AC9	fav	26.3
-a	081618	AC9_081618_sea_cal_a_1_T18_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_081618_sea_cal_a_1_T18_5.dat	1	cal	AC9	sea	18.5
-a	081618	AC9_081618_sea_cal_a_2_T18_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_081618_sea_cal_a_2_T18_5.dat	2	cal	AC9	sea	18.5
-a	081618	AC9_081618_sea_cal_a_3_T18_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_081618_sea_cal_a_3_T18_5.dat	3	cal	AC9	sea	18.5
-a	081618	AC9_081618_sea_cal_a_4_T18_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_081618_sea_cal_a_4_T18_5.dat	4	cal	AC9	sea	18.5
-c	081618	AC9_081618_sea_cal_c_1_T18_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_081618_sea_cal_c_1_T18_5.dat	1	cal	AC9	sea	18.5
-c	081618	AC9_081618_sea_cal_c_2_T18_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_081618_sea_cal_c_2_T18_5.dat	2	cal	AC9	sea	18.5
-c	081618	AC9_081618_sea_cal_c_3_T18_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_081618_sea_cal_c_3_T18_5.dat	3	cal	AC9	sea	18.5
-c	081618	AC9_081618_sea_cal_c_4_T18_5	/Users/Petrichor/Documents/FreshwatersOpticsToolkit/Data/1_1_renamed_originals/AC9_081618_sea_cal_c_4_T18_5.dat	4	cal	AC9	sea	18.5
+Analysis_Type	Date	ID	Rep	Sample_Type	Sensor	Site
+a	070718	AC9_070718_sea_cal_a_1_T20_6	1	cal	AC9	sea
+a	070718	AC9_070718_sea_cal_a_2_T20_9	2	cal	AC9	sea
+a	070718	AC9_070718_sea_cal_a_3_T20_9	3	cal	AC9	sea
+c	070718	AC9_070718_sea_cal_c_1_T20_6	1	cal	AC9	sea
+c	070718	AC9_070718_sea_cal_c_2_T20_6	2	cal	AC9	sea
+c	070718	AC9_070718_sea_cal_c_3_T20_6	3	cal	AC9	sea
+a	071318	AC9_071318_bai_cal_a_1_T23_8	1	cal	AC9	bai
+a	071318	AC9_071318_bai_cal_a_2_T24_1	2	cal	AC9	bai
+a	071318	AC9_071318_bai_cal_a_3_T24_0	3	cal	AC9	bai
+c	071318	AC9_071318_bai_cal_c_1_T23_7	1	cal	AC9	bai
+c	071318	AC9_071318_bai_cal_c_2_T23_8	2	cal	AC9	bai
+c	071318	AC9_071318_bai_cal_c_3_T23_9	3	cal	AC9	bai
+a	071318	AC9_071318_fai_cal_a_1_T23_8	1	cal	AC9	fai
+a	071318	AC9_071318_fai_cal_a_2_T24_1	2	cal	AC9	fai
+a	071318	AC9_071318_fai_cal_a_3_T24_0	3	cal	AC9	fai
+c	071318	AC9_071318_fai_cal_c_1_T23_7	1	cal	AC9	fai
+c	071318	AC9_071318_fai_cal_c_2_T23_8	2	cal	AC9	fai
+c	071318	AC9_071318_fai_cal_c_3_T23_9	3	cal	AC9	fai
+a	071418	AC9_071418_bai_fil_a_1_T13_4	1	fil	AC9	bai
+a	071418	AC9_071418_bai_fil_a_2_T19_2	2	fil	AC9	bai
+a	071418	AC9_071418_bai_fil_a_3_T18_5	3	fil	AC9	bai
+c	071418	AC9_071418_bai_fil_c_1_T13_4	1	fil	AC9	bai
+c	071418	AC9_071418_bai_fil_c_2_T19_2	2	fil	AC9	bai
+c	071418	AC9_071418_bai_fil_c_3_T18_5	3	fil	AC9	bai
+a	071418	AC9_071418_bai_raw_a_1_T19_8	1	raw	AC9	bai
+a	071418	AC9_071418_bai_raw_a_2_T19_8	2	raw	AC9	bai
+a	071418	AC9_071418_bai_raw_a_3_T17_8	3	raw	AC9	bai
+c	071418	AC9_071418_bai_raw_c_1_T19_8	1	raw	AC9	bai
+c	071418	AC9_071418_bai_raw_c_2_T19_8	2	raw	AC9	bai
+c	071418	AC9_071418_bai_raw_c_3_T17_8	3	raw	AC9	bai
+a	071618	AC9_071618_can_cal_a_1_T19_3	1	cal	AC9	can
+a	071618	AC9_071618_can_cal_a_2_T19_9	2	cal	AC9	can
+a	071618	AC9_071618_can_cal_a_3_T19_0	3	cal	AC9	can
+c	071618	AC9_071618_can_cal_c_1_T19_3	1	cal	AC9	can
+c	071618	AC9_071618_can_cal_c_2_T19_9	2	cal	AC9	can
+c	071618	AC9_071618_can_cal_c_3_T19_0	3	cal	AC9	can
+a	071618	AC9_071618_cbr_cal_a_1_T19_9	1	cal	AC9	cbr
+a	071618	AC9_071618_cbr_cal_a_2_T19_3	2	cal	AC9	cbr
+a	071618	AC9_071618_cbr_cal_a_3_T19_0	3	cal	AC9	cbr
+c	071618	AC9_071618_cbr_cal_c_1_T19_9	1	cal	AC9	cbr
+c	071618	AC9_071618_cbr_cal_c_2_T19_3	2	cal	AC9	cbr
+c	071618	AC9_071618_cbr_cal_c_3_T19_0	3	cal	AC9	cbr
+a	071618	AC9_071618_cbr_fil_a_1_T17_5	1	fil	AC9	cbr
+a	071618	AC9_071618_cbr_fil_a_2_T17_5	2	fil	AC9	cbr
+a	071618	AC9_071618_cbr_fil_a_3_T17_5	3	fil	AC9	cbr
+c	071618	AC9_071618_cbr_fil_c_1_T17_5	1	fil	AC9	cbr
+c	071618	AC9_071618_cbr_fil_c_2_T17_5	2	fil	AC9	cbr
+c	071618	AC9_071618_cbr_fil_c_3_T17_5	3	fil	AC9	cbr
+a	071618	AC9_071618_cbr_raw_a_1_T17_5	1	raw	AC9	cbr
+a	071618	AC9_071618_cbr_raw_a_2_T17_5	2	raw	AC9	cbr
+a	071618	AC9_071618_cbr_raw_a_3_T17_5	3	raw	AC9	cbr
+c	071618	AC9_071618_cbr_raw_c_1_T17_5	1	raw	AC9	cbr
+c	071618	AC9_071618_cbr_raw_c_2_T17_5	2	raw	AC9	cbr
+c	071618	AC9_071618_cbr_raw_c_3_T17_5	3	raw	AC9	cbr
+a	071718	AC9_071718_9mi_cal_a_1_T19_0	1	cal	AC9	9mi
+c	071718	AC9_071718_9mi_cal_c_1_T19_0	1	cal	AC9	9mi
+a	071718	AC9_071718_9mi_fil_a_1_T15_4	1	fil	AC9	9mi
+a	071718	AC9_071718_9mi_fil_a_2_T15_4	2	fil	AC9	9mi
+a	071718	AC9_071718_9mi_fil_a_3_T15_1	3	fil	AC9	9mi
+c	071718	AC9_071718_9mi_fil_c_1_T15_4	1	fil	AC9	9mi
+c	071718	AC9_071718_9mi_fil_c_2_T15_4	2	fil	AC9	9mi
+c	071718	AC9_071718_9mi_fil_c_3_T15_1	3	fil	AC9	9mi
+a	071718	AC9_071718_9mi_raw_a_1_T17_4	1	raw	AC9	9mi
+a	071718	AC9_071718_9mi_raw_a_2_T17_4	2	raw	AC9	9mi
+a	071718	AC9_071718_9mi_raw_a_3_T17_4	3	raw	AC9	9mi
+c	071718	AC9_071718_9mi_raw_c_1_T17_4	1	raw	AC9	9mi
+c	071718	AC9_071718_9mi_raw_c_2_T17_4	2	raw	AC9	9mi
+c	071718	AC9_071718_9mi_raw_c_3_T17_4	3	raw	AC9	9mi
+a	071718	AC9_071718_can_cal_a_1_T19_0	1	cal	AC9	can
+a	071718	AC9_071718_can_cal_a_2_T19_0	2	cal	AC9	can
+a	071718	AC9_071718_can_cal_a_3_T19_0	3	cal	AC9	can
+c	071718	AC9_071718_can_cal_c_1_T19_0	1	cal	AC9	can
+c	071718	AC9_071718_can_cal_c_2_T19_0	2	cal	AC9	can
+c	071718	AC9_071718_can_cal_c_3_T19_0	3	cal	AC9	can
+a	071718	AC9_071718_sco_fil_a_2_T17_7	2	fil	AC9	sco
+a	071718	AC9_071718_sco_fil_a_3_T17_7	3	fil	AC9	sco
+c	071718	AC9_071718_sco_fil_c_2_T17_7	2	fil	AC9	sco
+c	071718	AC9_071718_sco_fil_c_3_T17_7	3	fil	AC9	sco
+a	071718	AC9_071718_sco_raw_a_1_T18_3	1	raw	AC9	sco
+a	071718	AC9_071718_sco_raw_a_2_T18_3	2	raw	AC9	sco
+a	071718	AC9_071718_sco_raw_a_3_T18_3	3	raw	AC9	sco
+c	071718	AC9_071718_sco_raw_c_1_T18_3	1	raw	AC9	sco
+c	071718	AC9_071718_sco_raw_c_2_T18_3	2	raw	AC9	sco
+c	071718	AC9_071718_sco_raw_c_3_T18_3	3	raw	AC9	sco
+a	071718	AC9_071718_y17_fil_a_1_T17_4	1	fil	AC9	y17
+a	071718	AC9_071718_y17_fil_a_2_T17_4	2	fil	AC9	y17
+c	071718	AC9_071718_y17_fil_c_1_T17_4	1	fil	AC9	y17
+c	071718	AC9_071718_y17_fil_c_2_T17_4	2	fil	AC9	y17
+a	071718	AC9_071718_y17_raw_a_2_T17_1	2	raw	AC9	y17
+a	071718	AC9_071718_y17_raw_a_3_T17_1	3	raw	AC9	y17
+a	071718	AC9_071718_y17_raw_a_4_T17_1	4	raw	AC9	y17
+c	071718	AC9_071718_y17_raw_c_2_T17_1	2	raw	AC9	y17
+c	071718	AC9_071718_y17_raw_c_3_T17_1	3	raw	AC9	y17
+c	071718	AC9_071718_y17_raw_c_4_T17_1	4	raw	AC9	y17
+a	071718	AC9_071718_y20_fil_a_1_T17_0	1	fil	AC9	y20
+a	071718	AC9_071718_y20_fil_a_2_T19_7	2	fil	AC9	y20
+c	071718	AC9_071718_y20_fil_c_1_T17_0	1	fil	AC9	y20
+c	071718	AC9_071718_y20_fil_c_2_T19_7	2	fil	AC9	y20
+a	071718	AC9_071718_y20_raw_a_1_T16_8	1	raw	AC9	y20
+a	071718	AC9_071718_y20_raw_a_2_T16_8	2	raw	AC9	y20
+a	071718	AC9_071718_y20_raw_a_3_T16_8	3	raw	AC9	y20
+c	071718	AC9_071718_y20_raw_c_1_T16_8	1	raw	AC9	y20
+c	071718	AC9_071718_y20_raw_c_2_T16_8	2	raw	AC9	y20
+c	071718	AC9_071718_y20_raw_c_3_T16_8	3	raw	AC9	y20
+a	071818	AC9_071818_boo_fil_a_1_T22_3	1	fil	AC9	boo
+a	071818	AC9_071818_boo_fil_a_2_T22_3	2	fil	AC9	boo
+a	071818	AC9_071818_boo_fil_a_3_T21_9	3	fil	AC9	boo
+c	071818	AC9_071818_boo_fil_c_1_T22_3	1	fil	AC9	boo
+c	071818	AC9_071818_boo_fil_c_2_T22_3	2	fil	AC9	boo
+c	071818	AC9_071818_boo_fil_c_3_T21_9	3	fil	AC9	boo
+a	071818	AC9_071818_boo_raw_a_1_T17_0	1	raw	AC9	boo
+a	071818	AC9_071818_boo_raw_a_2_T17_0	2	raw	AC9	boo
+a	071818	AC9_071818_boo_raw_a_3_T17_0	3	raw	AC9	boo
+c	071818	AC9_071818_boo_raw_c_1_T17_0	1	raw	AC9	boo
+c	071818	AC9_071818_boo_raw_c_2_T17_0	2	raw	AC9	boo
+c	071818	AC9_071818_boo_raw_c_3_T17_0	3	raw	AC9	boo
+a	071818	AC9_071818_can_cal_a_1_T21_2	1	cal	AC9	can
+a	071818	AC9_071818_can_cal_a_2_T21_2	2	cal	AC9	can
+a	071818	AC9_071818_can_cal_a_3_T21_2	3	cal	AC9	can
+c	071818	AC9_071818_can_cal_c_1_T21_2	1	cal	AC9	can
+c	071818	AC9_071818_can_cal_c_2_T21_2	2	cal	AC9	can
+c	071818	AC9_071818_can_cal_c_3_T21_2	3	cal	AC9	can
+a	071818	AC9_071818_gre_fil_a_1_T22_4	1	fil	AC9	gre
+a	071818	AC9_071818_gre_fil_a_2_T22_3	2	fil	AC9	gre
+a	071818	AC9_071818_gre_fil_a_3_T22_0	3	fil	AC9	gre
+c	071818	AC9_071818_gre_fil_c_1_T22_4	1	fil	AC9	gre
+c	071818	AC9_071818_gre_fil_c_2_T22_3	2	fil	AC9	gre
+c	071818	AC9_071818_gre_fil_c_3_T22_0	3	fil	AC9	gre
+a	071818	AC9_071818_gre_raw_a_1_T17_1	1	raw	AC9	gre
+a	071818	AC9_071818_gre_raw_a_2_T17_1	2	raw	AC9	gre
+a	071818	AC9_071818_gre_raw_a_3_T17_1	3	raw	AC9	gre
+c	071818	AC9_071818_gre_raw_c_1_T17_1	1	raw	AC9	gre
+c	071818	AC9_071818_gre_raw_c_2_T17_1	2	raw	AC9	gre
+c	071818	AC9_071818_gre_raw_c_3_T17_1	3	raw	AC9	gre
+a	071918	AC9_071918_can_cal_a_1_T21_6	1	cal	AC9	can
+a	071918	AC9_071918_can_cal_a_2_T20_4	2	cal	AC9	can
+a	071918	AC9_071918_can_cal_a_3_T20_1	3	cal	AC9	can
+c	071918	AC9_071918_can_cal_c_1_T21_6	1	cal	AC9	can
+c	071918	AC9_071918_can_cal_c_2_T20_4	2	cal	AC9	can
+c	071918	AC9_071918_can_cal_c_3_T20_1	3	cal	AC9	can
+a	071918	AC9_071918_cbr_fil_a_1_T19_8	1	fil	AC9	cbr
+a	071918	AC9_071918_cbr_fil_a_2_T19_8	2	fil	AC9	cbr
+a	071918	AC9_071918_cbr_fil_a_3_T19_2	3	fil	AC9	cbr
+c	071918	AC9_071918_cbr_fil_c_1_T19_8	1	fil	AC9	cbr
+c	071918	AC9_071918_cbr_fil_c_2_T19_8	2	fil	AC9	cbr
+c	071918	AC9_071918_cbr_fil_c_3_T19_2	3	fil	AC9	cbr
+a	071918	AC9_071918_cbr_raw_a_2_T16_1	2	raw	AC9	cbr
+a	071918	AC9_071918_cbr_raw_a_3_T16_1	3	raw	AC9	cbr
+a	071918	AC9_071918_cbr_raw_a_4_T16_1	4	raw	AC9	cbr
+c	071918	AC9_071918_cbr_raw_c_2_T16_1	2	raw	AC9	cbr
+c	071918	AC9_071918_cbr_raw_c_3_T16_1	3	raw	AC9	cbr
+c	071918	AC9_071918_cbr_raw_c_4_T16_1	4	raw	AC9	cbr
+a	071918	AC9_071918_y17_fil_a_1_T18_3	1	fil	AC9	y17
+a	071918	AC9_071918_y17_fil_a_2_T18_0	2	fil	AC9	y17
+a	071918	AC9_071918_y17_fil_a_3_T17_9	3	fil	AC9	y17
+c	071918	AC9_071918_y17_fil_c_1_T18_3	1	fil	AC9	y17
+c	071918	AC9_071918_y17_fil_c_2_T18_0	2	fil	AC9	y17
+c	071918	AC9_071918_y17_fil_c_3_T17_9	3	fil	AC9	y17
+a	071918	AC9_071918_y20_fil_a_1_T17_7	1	fil	AC9	y20
+a	071918	AC9_071918_y20_fil_a_2_T17_8	2	fil	AC9	y20
+a	071918	AC9_071918_y20_fil_a_3_T17_6	3	fil	AC9	y20
+a	071918	AC9_071918_y20_fil_a_4_T17_5	4	fil	AC9	y20
+c	071918	AC9_071918_y20_fil_c_1_T17_7	1	fil	AC9	y20
+c	071918	AC9_071918_y20_fil_c_2_T17_8	2	fil	AC9	y20
+c	071918	AC9_071918_y20_fil_c_3_T17_6	3	fil	AC9	y20
+c	071918	AC9_071918_y20_fil_c_4_T17_5	4	fil	AC9	y20
+a	072118	AC9_072118_fai_cal_a_1_T26_7	1	cal	AC9	fai
+a	072118	AC9_072118_fai_cal_a_2_T25_7	2	cal	AC9	fai
+a	072118	AC9_072118_fai_cal_a_3_T25_4	3	cal	AC9	fai
+c	072118	AC9_072118_fai_cal_c_1_T26_7	1	cal	AC9	fai
+c	072118	AC9_072118_fai_cal_c_2_T25_7	2	cal	AC9	fai
+c	072118	AC9_072118_fai_cal_c_3_T25_4	3	cal	AC9	fai
+a	072118	AC9_072118_fav_cal_a_1_T26_3	1	cal	AC9	fav
+c	072118	AC9_072118_fav_cal_c_1_T26_3	1	cal	AC9	fav
+a	081618	AC9_081618_sea_cal_a_1_T18_5	1	cal	AC9	sea
+a	081618	AC9_081618_sea_cal_a_2_T18_5	2	cal	AC9	sea
+a	081618	AC9_081618_sea_cal_a_3_T18_5	3	cal	AC9	sea
+a	081618	AC9_081618_sea_cal_a_4_T18_5	4	cal	AC9	sea
+c	081618	AC9_081618_sea_cal_c_1_T18_5	1	cal	AC9	sea
+c	081618	AC9_081618_sea_cal_c_2_T18_5	2	cal	AC9	sea
+c	081618	AC9_081618_sea_cal_c_3_T18_5	3	cal	AC9	sea
+c	081618	AC9_081618_sea_cal_c_4_T18_5	4	cal	AC9	sea
