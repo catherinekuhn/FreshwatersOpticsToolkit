@@ -1,6 +1,12 @@
 import os
 import pandas as pd
+import matplotlib.pylab as plt
 
+## Function to get individual plot ids based on categories in original metadata file
+## WILL NOT WORK if you have a different filename for metadata
+## Takes one or more strings that are possible variables to id samples with
+## Returns list of sample ids that fit those criteria
+## USE: for getting the names of samples you want to remove or subset
 def get_id(*args):
 	list_of_req = [x for x in args]
 	parent_directory = os.path.abspath('..')
@@ -43,7 +49,7 @@ def plotting_multiple_files(dict_of_files, title='Title'):
 		else:
 			df = dict_of_files[reps]
 			df.reset_index()
-		plt.plot('wl','mean',data=df,label=j,linestyle=linestyles[Sample_Type])
+		plt.plot('wl','mean',data=df,label=reps,linestyle=linestyles[Sample_Type])
 		plt.errorbar('wl', 'mean', yerr='std', fmt='k-', linewidth=0.5, data = df) 
 	plt.ylabel('[1/m]')
 	plt.xlabel('Wavelength (nm)')
@@ -62,10 +68,11 @@ def make_dir(mystring, show='FALSE'):
         if '..' in mystring:
             if show == 'TRUE':
                 print 'Created directory: '+mystring
-            return getpath(mystring)
+            getpath(mystring)
         else:
             parent_directory = os.path.abspath('..')
             newname = parent_directory+'/'+mystring
             if show == 'TRUE':
                 print 'Created directory: '+newname
-            return getpath(newname)
+            getpath(newname)
+            return newname
