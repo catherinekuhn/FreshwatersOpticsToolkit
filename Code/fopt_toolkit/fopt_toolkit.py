@@ -40,7 +40,7 @@ def get_id(*args):
 
 ## Plotting multiple dataframes or csv 
 def plotting_multiple_files(dict_of_files, title='Title'):
-	linestyles = {'fil':'--','raw':'-'}
+	linestyles = {'fil':'--','raw':'-','vic':'-'}
 	for reps in sorted(list(dict_of_files)):
 		Sample_Type = reps.split(' ')[0]
 		if not isinstance(dict_of_files[reps], pd.DataFrame):
