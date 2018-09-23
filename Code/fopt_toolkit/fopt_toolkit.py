@@ -38,17 +38,17 @@ def get_id(*args):
 	else:
 		return 'ERROR: None of the entered arguments match possible values in the metadata file.'
 
+## Plotting multiple dataframes or csv 
 def plotting_multiple_files(dict_of_files, title='Title'):
 	linestyles = {'fil':'--','raw':'-'}
 	for reps in sorted(list(dict_of_files)):
 		Sample_Type = reps.split(' ')[0]
 		if not isinstance(dict_of_files[reps], pd.DataFrame):
 			df = pd.read_csv(dict_of_files[reps], skiprows = 0, delimiter= '\t')
-			df.reset_index(inplace=True, drop=False)
-			df.rename(columns = {'c_mean':'mean', 'a_mean':'mean', 'c_std':'std','a_std':'std'}, inplace = True)
 		else:
 			df = dict_of_files[reps]
-			df.reset_index()
+		df.reset_index(inplace=True, drop=False)
+		df.rename(columns = {'c_mean':'mean', 'a_mean':'mean', 'c_std':'std','a_std':'std'}, inplace = True)
 		plt.plot('wl','mean',data=df,label=reps,linestyle=linestyles[Sample_Type])
 		plt.errorbar('wl', 'mean', yerr='std', fmt='k-', linewidth=0.5, data = df) 
 	plt.ylabel('[1/m]')
