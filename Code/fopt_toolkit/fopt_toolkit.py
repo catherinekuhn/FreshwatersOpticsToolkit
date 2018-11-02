@@ -39,7 +39,7 @@ def get_id(*args):
 		return 'ERROR: None of the entered arguments match possible values in the metadata file.'
 
 ## Plotting multiple dataframes or csv 
-def plotting_multiple_files(dict_of_files, title='Title'):
+def plotting_multiple_files(dict_of_files, title='Title', check='F'):
 	linestyles = {'fil':'--','raw':'-','vic':'-'}
 	for reps in sorted(list(dict_of_files)):
 		Sample_Type = reps.split(' ')[0]
