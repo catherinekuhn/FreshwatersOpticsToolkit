@@ -43,9 +43,10 @@ class Data_Reader:
         lake_data["asd_measure"] = asd_measures
         return pd.DataFrame.from_dict(lake_data)
     
-    def get_raw_data(self):
+    def __get_raw_data(self):
         '''
-        returns a list of raw data frames for each lake 
+        private helper function that builds the master data frame and
+        saves it as a csv file
         '''
         result = []
         for lake in self.lake_names:
@@ -54,5 +55,27 @@ class Data_Reader:
             mean_by_rep_type = lake_df.groupby(
                 ["rep_number", "rep_name", "wavelength"]).mean()
             mean_by_rep_type = mean_by_rep_type.reset_index()
-            result.append(mean_by_rep_type)
-        return result
+            # compute the mean of 10 reps
+            summarized = mean_by_rep_type.groupby(["rep_name", "wavelength"])[
+                "asd_measure"].mean().reset_index()
+            # compute the std deviation of the asd measures of 10 reps
+            std_dev = mean_by_rep_type.groupby(["rep_name", "wavelength"])[
+                "asd_measure"].std().reset_index()["asd_measure"]
+            # add the std deviation as a new column
+            summarized["std_deviation"] = std_dev
+            # add lake name as a column
+            lake_name = [lake for i in range(summarized.shape[0])]
+            summarized["lake_name"] = lake_name
+            result.append(summarized)
+        result = pd.concat(result)
+        result.to_csv("./processed_data.csv", index=False)
+        # returns the file name
+        return "processed_data.csv"
+    
+    def format_data(self):
+        '''
+        reads asd data from local files, builds and writes the master csv file
+        to current directory; returns the file name
+        '''
+        return self.__get_raw_data()
+
