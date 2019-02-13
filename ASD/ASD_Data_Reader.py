@@ -43,7 +43,7 @@ class Data_Reader:
         lake_data["asd_measure"] = asd_measures
         return pd.DataFrame.from_dict(lake_data)
     
-    def __get_raw_data(self):
+    def __get_raw_data(self, file_name):
         '''
         private helper function that builds the master data frame and
         saves it as a csv file
@@ -68,14 +68,14 @@ class Data_Reader:
             summarized["lake_name"] = lake_name
             result.append(summarized)
         result = pd.concat(result)
-        result.to_csv("./processed_data.csv", index=False)
+        result.to_csv("./" + file_name, index=False)
         # returns the file name
-        return "processed_data.csv"
+        return file_name
     
-    def format_data(self):
+    def format_data(self, file_name):
         '''
         reads asd data from local files, builds and writes the master csv file
         to current directory; returns the file name
         '''
-        return self.__get_raw_data()
+        return self.__get_raw_data(file_name)
 
