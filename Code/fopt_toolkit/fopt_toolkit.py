@@ -26,13 +26,13 @@ def get_id(*args):
 			if m in metadata_original_dict_set[j]:
 				count += 1
 				total_count += 1
-				print j, m
+				print(j, m)
 				metadata_original_subset = metadata_original_subset.loc[(metadata_original_subset[j] == m)]
-        if count == 0:
-            if len(list_of_req) > 1:
-                print 'ERROR: Value',m,'not a possible value. Subsetting by other values.'
-            else:
-				print 'ERROR: Value',m,'not a possible value.'
+	if count == 0:
+		if len(list_of_req) > 1:
+			print('ERROR: Value',m,'not a possible value. Subsetting by other values.')
+		else:
+			print('ERROR: Value',m,'not a possible value.')
 	if total_count > 0:
 		return [i for i in metadata_original_subset['ID']]
 	else:
@@ -63,16 +63,16 @@ def make_dir(mystring, show='FALSE'):
         if not os.path.exists(mystring2):
             os.makedirs(mystring2)
     if os.getcwd().split('/')[-1] != 'Code':
-        print 'Error: Current working directory should be the "Code" subdirectory of the current project.'
+        print('Error: Current working directory should be the "Code" subdirectory of the current project.')
     else:
         if '..' in mystring:
             if show == 'TRUE':
-                print 'Created directory: '+mystring
+                print('Created directory: '+mystring)
             getpath(mystring)
         else:
             parent_directory = os.path.abspath('..')
             newname = parent_directory+'/'+mystring
             if show == 'TRUE':
-                print 'Created directory: '+newname
+                print('Created directory: '+newname)
             getpath(newname)
             return newname
